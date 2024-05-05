@@ -19,12 +19,6 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-{% include_relative includes/news.md %}
-
-{% include_relative includes/publication.md %}
-
 {% include_relative includes/education.md %}
 
-{% include_relative includes/contest.md %}
 
-{% include_relative includes/services.md %}
